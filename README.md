@@ -1,2 +1,2 @@
 # Pulsar2d
-Game programming framework for FreeBASIC using SDL2
+Game programming framework for FreeBASIC and FreePascal using SDL2
