@@ -6,6 +6,7 @@ Game programming framework for FreeBASIC and FreePascal using SDL2
 - Programming can be done with Free Pascal 3.2.0 or FreeBASIC 1.07.1 and newer
 - Simple animation system
 - Simple particles system
+- Use (almost) any pixel font
 - Multiple windows support
 - A lot of built-in functions gives you access to graphics, sound and input.
 - Crossplatform development for Windows and Linux (and other operating systems supporting SDL2 and/or FreeBASIC/Free Pascal)
