@@ -4,6 +4,7 @@ Game programming framework for FreeBASIC and FreePascal using SDL2
 ## Some features
 - All rendering is based on SDL2 which gives us on most platforms hardware accelerated graphics
 - Programming can be done with Free Pascal 3.2.0 or FreeBASIC 1.07.1 and newer
+- There is also a custom Lua interpreter with all Pulsar2D features (Windows and Linux maybe more platforms in the future)
 - Simple animation system
 - Simple particles system
 - Use (almost) any pixel font
